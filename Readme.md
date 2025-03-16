@@ -7,8 +7,8 @@ The Bus Reservation System is a command-line application developed in C language
 1. Your code editor should have mingw-64 library pre installed.
 
 # How To Run
-1. A GCC C compiler with header files "stdio.h","conio.h","stdlib.h","string.h","unistd.h","time.h" and Source Code (b23me1027_b23cs1051_b23ch1028_main.c) are required for running the code.
-2. Compile the code using C compiler -> gcc b23me1027_b23cs1051_b23ch1028_main.c -o bus_booking_system
+1. A GCC C compiler with header files "stdio.h","conio.h","stdlib.h","string.h","unistd.h","time.h" and Source Code (main.c) are required for running the code.
+2. Compile the code using C compiler -> gcc main.c -o bus_booking_system
 3. Run the executable file -> ./bus_booking_system
 
 # Instructions
